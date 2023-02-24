@@ -1,3 +1,3 @@
-url  https://talhaahbinabbasali123456.github.io/guess-color/
+url  https://github.com/mubeenibrahim786/Guesss-Color
 
 # guess-color
